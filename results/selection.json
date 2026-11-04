@@ -1,0 +1,1631 @@
+{
+ "tables": "results/estimates (lattice estimator 53da598)",
+ "targets": [
+  {
+   "lambda": 128,
+   "models": [
+    "MATZOV"
+   ],
+   "b_hi": {
+    "6": 38,
+    "7": 45,
+    "8": 50,
+    "9": 50,
+    "10": 50,
+    "11": 50,
+    "12": 50
+   },
+   "selection": [
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 1,
+     "d": 7,
+     "b": 42,
+     "q": 4398046510961,
+     "beta_SIS": 3257500000000.0,
+     "b_lo": 42,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 138.40670282870568,
+      "MATZOV_q": 133.293243874428,
+      "ADPS16": 110.668352412016,
+      "ADPS16_q": 100.70083116193919
+     },
+     "binding": {
+      "MATZOV": 144.54931224626296,
+      "MATZOV_q": 138.9170951411041,
+      "ADPS16": 116.8,
+      "ADPS16_q": 106.0
+     },
+     "ballot_bytes": 111484,
+     "min_size_pair": [
+      7,
+      42
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 2,
+     "d": 7,
+     "b": 42,
+     "q": 4398046510961,
+     "beta_SIS": 3428960000000.0,
+     "b_lo": 42,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 138.40670282870568,
+      "MATZOV_q": 133.293243874428,
+      "ADPS16": 110.668352412016,
+      "ADPS16_q": 100.70083116193919
+     },
+     "binding": {
+      "MATZOV": 143.9917131922416,
+      "MATZOV_q": 138.41532038857744,
+      "ADPS16": 116.216,
+      "ADPS16_q": 105.47
+     },
+     "ballot_bytes": 141345,
+     "min_size_pair": [
+      7,
+      42
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 1,
+     "d": 7,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 8326850000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 135.04672267938798,
+      "MATZOV_q": 130.28270553839835,
+      "ADPS16": 107.16798986519491,
+      "ADPS16_q": 97.52287792069258
+     },
+     "binding": {
+      "MATZOV": 138.16104555226244,
+      "MATZOV_q": 133.17061334027755,
+      "ADPS16": 110.08399999999999,
+      "ADPS16_q": 99.905
+     },
+     "ballot_bytes": 112764,
+     "min_size_pair": [
+      7,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 2,
+     "d": 7,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 8771490000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 135.04672267938798,
+      "MATZOV_q": 130.28270553839835,
+      "ADPS16": 107.16798986519491,
+      "ADPS16_q": 97.52287792069258
+     },
+     "binding": {
+      "MATZOV": 137.60426355245895,
+      "MATZOV_q": 132.66961814907063,
+      "ADPS16": 109.5,
+      "ADPS16_q": 99.375
+     },
+     "ballot_bytes": 142785,
+     "min_size_pair": [
+      7,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 1,
+     "d": 7,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 24105000000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 128.85879757051714,
+      "MATZOV_q": 124.70839814110207,
+      "ADPS16": 101.0320032483681,
+      "ADPS16_q": 91.6921065454926
+     },
+     "binding": {
+      "MATZOV": 134.57652755530938,
+      "MATZOV_q": 129.94864875951748,
+      "ADPS16": 106.288,
+      "ADPS16_q": 96.46000000000001
+     },
+     "ballot_bytes": 115324,
+     "min_size_pair": [
+      7,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 2,
+     "d": 7,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 25372200000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 128.85879757051714,
+      "MATZOV_q": 124.70839814110207,
+      "ADPS16": 101.0320032483681,
+      "ADPS16_q": 91.6921065454926
+     },
+     "binding": {
+      "MATZOV": 134.01999477025856,
+      "MATZOV_q": 129.44788050201453,
+      "ADPS16": 105.704,
+      "ADPS16_q": 95.93
+     },
+     "ballot_bytes": 145665,
+     "min_size_pair": [
+      7,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 9,
+     "L": 1,
+     "d": 7,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 24105000000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 128.85879757051714,
+      "MATZOV_q": 124.70839814110207,
+      "ADPS16": 101.0320032483681,
+      "ADPS16_q": 91.6921065454926
+     },
+     "binding": {
+      "MATZOV": 134.57652755530938,
+      "MATZOV_q": 129.94864875951748,
+      "ADPS16": 106.288,
+      "ADPS16_q": 96.46000000000001
+     },
+     "ballot_bytes": 216272,
+     "min_size_pair": [
+      7,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 1,
+     "d": 8,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 66281600000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 145.24867921703319,
+      "MATZOV_q": 139.47146474158535,
+      "ADPS16": 117.41515956415786,
+      "ADPS16_q": 106.80029862065349
+     },
+     "binding": {
+      "MATZOV": 148.9108130139796,
+      "MATZOV_q": 142.85981440729464,
+      "ADPS16": 121.17999999999999,
+      "ADPS16_q": 109.97500000000001
+     },
+     "ballot_bytes": 132651,
+     "min_size_pair": [
+      8,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 2,
+     "d": 8,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 69472200000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 145.24867921703319,
+      "MATZOV_q": 139.47146474158535,
+      "ADPS16": 117.41515956415786,
+      "ADPS16_q": 106.80029862065349
+     },
+     "binding": {
+      "MATZOV": 148.35365866374713,
+      "MATZOV_q": 142.35850757415167,
+      "ADPS16": 120.59599999999999,
+      "ADPS16_q": 109.44500000000001
+     },
+     "ballot_bytes": 164656,
+     "min_size_pair": [
+      8,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 1,
+     "d": 8,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 82110200000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 142.05698902049892,
+      "MATZOV_q": 136.5587730191231,
+      "ADPS16": 114.42735751877917,
+      "ADPS16_q": 103.91842944069703
+     },
+     "binding": {
+      "MATZOV": 150.32165802515328,
+      "MATZOV_q": 144.13102742328078,
+      "ADPS16": 122.63999999999999,
+      "ADPS16_q": 111.30000000000001
+     },
+     "ballot_bytes": 134091,
+     "min_size_pair": [
+      8,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 2,
+     "d": 8,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 86063400000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 142.05698902049892,
+      "MATZOV_q": 136.5587730191231,
+      "ADPS16": 114.42735751877917,
+      "ADPS16_q": 103.91842944069703
+     },
+     "binding": {
+      "MATZOV": 149.76445215085232,
+      "MATZOV_q": 143.6296766003693,
+      "ADPS16": 122.056,
+      "ADPS16_q": 110.77000000000001
+     },
+     "ballot_bytes": 166256,
+     "min_size_pair": [
+      8,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    }
+   ],
+   "thresholds": [
+    {
+     "L": 1,
+     "d": 6,
+     "b_hi": 38,
+     "q": 274877906321,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 1,
+     "d": 7,
+     "b_hi": 45,
+     "q": 35184372088241,
+     "N_V_star": 2134743,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 130.9578696369942
+     }
+    },
+    {
+     "L": 1,
+     "d": 8,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    },
+    {
+     "L": 2,
+     "d": 6,
+     "b_hi": 38,
+     "q": 274877906321,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 2,
+     "d": 7,
+     "b_hi": 45,
+     "q": 35184372088241,
+     "N_V_star": 1965427,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 130.9578696369942
+     }
+    },
+    {
+     "L": 2,
+     "d": 8,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    }
+   ]
+  },
+  {
+   "lambda": 128,
+   "models": [
+    "MATZOV",
+    "MATZOV_q"
+   ],
+   "b_hi": {
+    "6": 37,
+    "7": 43,
+    "8": 50,
+    "9": 50,
+    "10": 50,
+    "11": 50,
+    "12": 50
+   },
+   "selection": [
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 1,
+     "d": 7,
+     "b": 42,
+     "q": 4398046510961,
+     "beta_SIS": 3257500000000.0,
+     "b_lo": 42,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 138.40670282870568,
+      "MATZOV_q": 133.293243874428,
+      "ADPS16": 110.668352412016,
+      "ADPS16_q": 100.70083116193919
+     },
+     "binding": {
+      "MATZOV": 144.54931224626296,
+      "MATZOV_q": 138.9170951411041,
+      "ADPS16": 116.8,
+      "ADPS16_q": 106.0
+     },
+     "ballot_bytes": 111484,
+     "min_size_pair": [
+      7,
+      42
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 2,
+     "d": 7,
+     "b": 42,
+     "q": 4398046510961,
+     "beta_SIS": 3428960000000.0,
+     "b_lo": 42,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 138.40670282870568,
+      "MATZOV_q": 133.293243874428,
+      "ADPS16": 110.668352412016,
+      "ADPS16_q": 100.70083116193919
+     },
+     "binding": {
+      "MATZOV": 143.9917131922416,
+      "MATZOV_q": 138.41532038857744,
+      "ADPS16": 116.216,
+      "ADPS16_q": 105.47
+     },
+     "ballot_bytes": 141345,
+     "min_size_pair": [
+      7,
+      42
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 1,
+     "d": 7,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 8326850000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 135.04672267938798,
+      "MATZOV_q": 130.28270553839835,
+      "ADPS16": 107.16798986519491,
+      "ADPS16_q": 97.52287792069258
+     },
+     "binding": {
+      "MATZOV": 138.16104555226244,
+      "MATZOV_q": 133.17061334027755,
+      "ADPS16": 110.08399999999999,
+      "ADPS16_q": 99.905
+     },
+     "ballot_bytes": 112764,
+     "min_size_pair": [
+      7,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 2,
+     "d": 7,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 8771490000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 135.04672267938798,
+      "MATZOV_q": 130.28270553839835,
+      "ADPS16": 107.16798986519491,
+      "ADPS16_q": 97.52287792069258
+     },
+     "binding": {
+      "MATZOV": 137.60426355245895,
+      "MATZOV_q": 132.66961814907063,
+      "ADPS16": 109.5,
+      "ADPS16_q": 99.375
+     },
+     "ballot_bytes": 142785,
+     "min_size_pair": [
+      7,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 1,
+     "d": 8,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 26660200000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 148.5129420378089,
+      "MATZOV_q": 142.5103145882495,
+      "ADPS16": 121.11153244728123,
+      "ADPS16_q": 110.24048836129892
+     },
+     "binding": {
+      "MATZOV": 155.02697734328055,
+      "MATZOV_q": 148.3614598037561,
+      "ADPS16": 127.60399999999998,
+      "ADPS16_q": 115.805
+     },
+     "ballot_bytes": 131211,
+     "min_size_pair": [
+      8,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 2,
+     "d": 8,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 27941000000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 148.5129420378089,
+      "MATZOV_q": 142.5103145882495,
+      "ADPS16": 121.11153244728123,
+      "ADPS16_q": 110.24048836129892
+     },
+     "binding": {
+      "MATZOV": 154.46950338408033,
+      "MATZOV_q": 147.85986578688335,
+      "ADPS16": 127.02,
+      "ADPS16_q": 115.275
+     },
+     "ballot_bytes": 163056,
+     "min_size_pair": [
+      8,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 9,
+     "L": 1,
+     "d": 8,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 26660200000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 148.5129420378089,
+      "MATZOV_q": 142.5103145882495,
+      "ADPS16": 121.11153244728123,
+      "ADPS16_q": 110.24048836129892
+     },
+     "binding": {
+      "MATZOV": 155.02697734328055,
+      "MATZOV_q": 148.3614598037561,
+      "ADPS16": 127.60399999999998,
+      "ADPS16_q": 115.805
+     },
+     "ballot_bytes": 244300,
+     "min_size_pair": [
+      8,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 1,
+     "d": 8,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 66281600000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 145.24867921703319,
+      "MATZOV_q": 139.47146474158535,
+      "ADPS16": 117.41515956415786,
+      "ADPS16_q": 106.80029862065349
+     },
+     "binding": {
+      "MATZOV": 148.9108130139796,
+      "MATZOV_q": 142.85981440729464,
+      "ADPS16": 121.17999999999999,
+      "ADPS16_q": 109.97500000000001
+     },
+     "ballot_bytes": 132651,
+     "min_size_pair": [
+      8,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 2,
+     "d": 8,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 69472200000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 145.24867921703319,
+      "MATZOV_q": 139.47146474158535,
+      "ADPS16": 117.41515956415786,
+      "ADPS16_q": 106.80029862065349
+     },
+     "binding": {
+      "MATZOV": 148.35365866374713,
+      "MATZOV_q": 142.35850757415167,
+      "ADPS16": 120.59599999999999,
+      "ADPS16_q": 109.44500000000001
+     },
+     "ballot_bytes": 164656,
+     "min_size_pair": [
+      8,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 1,
+     "d": 8,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 82110200000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 142.05698902049892,
+      "MATZOV_q": 136.5587730191231,
+      "ADPS16": 114.42735751877917,
+      "ADPS16_q": 103.91842944069703
+     },
+     "binding": {
+      "MATZOV": 150.32165802515328,
+      "MATZOV_q": 144.13102742328078,
+      "ADPS16": 122.63999999999999,
+      "ADPS16_q": 111.30000000000001
+     },
+     "ballot_bytes": 134091,
+     "min_size_pair": [
+      8,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 2,
+     "d": 8,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 86063400000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 142.05698902049892,
+      "MATZOV_q": 136.5587730191231,
+      "ADPS16": 114.42735751877917,
+      "ADPS16_q": 103.91842944069703
+     },
+     "binding": {
+      "MATZOV": 149.76445215085232,
+      "MATZOV_q": 143.6296766003693,
+      "ADPS16": 122.056,
+      "ADPS16_q": 110.77000000000001
+     },
+     "ballot_bytes": 166256,
+     "min_size_pair": [
+      8,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    }
+   ],
+   "thresholds": [
+    {
+     "L": 1,
+     "d": 6,
+     "b_hi": 37,
+     "q": 137438953009,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 1,
+     "d": 7,
+     "b_hi": 43,
+     "q": 8796093022033,
+     "N_V_star": 113291,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 137.60426355245895,
+      "MATZOV_q": 132.66961814907063
+     }
+    },
+    {
+     "L": 1,
+     "d": 8,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    },
+    {
+     "L": 2,
+     "d": 6,
+     "b_hi": 37,
+     "q": 137438953009,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 2,
+     "d": 7,
+     "b_hi": 43,
+     "q": 8796093022033,
+     "N_V_star": 100507,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 137.60426355245895,
+      "MATZOV_q": 132.66961814907063
+     }
+    },
+    {
+     "L": 2,
+     "d": 8,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    }
+   ]
+  },
+  {
+   "lambda": 192,
+   "models": [
+    "MATZOV"
+   ],
+   "b_hi": {
+    "6": null,
+    "7": null,
+    "8": null,
+    "9": 39,
+    "10": 44,
+    "11": 48,
+    "12": 50
+   },
+   "selection": [
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 1,
+     "d": 10,
+     "b": 42,
+     "q": 4398046510961,
+     "beta_SIS": 4270180000000.0,
+     "b_lo": 42,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 203.3136587580597,
+      "MATZOV_q": 191.82289188902018,
+      "ADPS16": 177.53605013265957,
+      "ADPS16_q": 161.72537445788922
+     },
+     "binding": {
+      "MATZOV": 212.6947516214001,
+      "MATZOV_q": 200.260498432567,
+      "ADPS16": 187.756,
+      "ADPS16_q": 170.395
+     },
+     "ballot_bytes": 156094,
+     "min_size_pair": [
+      10,
+      42
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 2,
+     "d": 10,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 4435820000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 198.1545872214993,
+      "MATZOV_q": 187.54453168277317,
+      "ADPS16": 172.28166216837937,
+      "ADPS16_q": 157.14500598323002
+     },
+     "binding": {
+      "MATZOV": 217.75063685872612,
+      "MATZOV_q": 204.81127353385088,
+      "ADPS16": 193.012,
+      "ADPS16_q": 175.16500000000002
+     },
+     "ballot_bytes": 194058,
+     "min_size_pair": [
+      10,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 1,
+     "d": 10,
+     "b": 44,
+     "q": 17592186044273,
+     "beta_SIS": 10956400000000.0,
+     "b_lo": 44,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 193.70587959211244,
+      "MATZOV_q": 183.39183710655226,
+      "ADPS16": 167.36668484145682,
+      "ADPS16_q": 152.64013466008564
+     },
+     "binding": {
+      "MATZOV": 208.53705420385447,
+      "MATZOV_q": 196.5236139557666,
+      "ADPS16": 183.37599999999998,
+      "ADPS16_q": 166.42000000000002
+     },
+     "ballot_bytes": 159614,
+     "min_size_pair": [
+      10,
+      44
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 2,
+     "d": 10,
+     "b": 44,
+     "q": 17592186044273,
+     "beta_SIS": 11387100000000.0,
+     "b_lo": 44,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 193.70587959211244,
+      "MATZOV_q": 183.39183710655226,
+      "ADPS16": 167.36668484145682,
+      "ADPS16_q": 152.64013466008564
+     },
+     "binding": {
+      "MATZOV": 207.69895574079442,
+      "MATZOV_q": 195.76966556291848,
+      "ADPS16": 182.5,
+      "ADPS16_q": 165.625
+     },
+     "ballot_bytes": 195978,
+     "min_size_pair": [
+      10,
+      44
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 34255600000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 209.42287621978366,
+      "MATZOV_q": 197.81631582058031,
+      "ADPS16": 184.31091639203223,
+      "ADPS16_q": 167.6852408409866
+     },
+     "binding": {
+      "MATZOV": 219.26493535826737,
+      "MATZOV_q": 206.18523821282588,
+      "ADPS16": 194.47199999999998,
+      "ADPS16_q": 176.49
+     },
+     "ballot_bytes": 176476,
+     "min_size_pair": [
+      11,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 35503600000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 204.8760163272909,
+      "MATZOV_q": 193.55386007504163,
+      "ADPS16": 179.58000127924674,
+      "ADPS16_q": 163.09719018985962
+     },
+     "binding": {
+      "MATZOV": 224.32075542083072,
+      "MATZOV_q": 210.73576717216048,
+      "ADPS16": 199.72799999999998,
+      "ADPS16_q": 181.26000000000002
+     },
+     "ballot_bytes": 217429,
+     "min_size_pair": [
+      11,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 9,
+     "L": 1,
+     "d": 11,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 34255700000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 209.42287621978366,
+      "MATZOV_q": 197.81631582058031,
+      "ADPS16": 184.31091639203223,
+      "ADPS16_q": 167.6852408409866
+     },
+     "binding": {
+      "MATZOV": 219.26493535826737,
+      "MATZOV_q": 206.18523821282588,
+      "ADPS16": 194.47199999999998,
+      "ADPS16_q": 176.49
+     },
+     "ballot_bytes": 328597,
+     "min_size_pair": [
+      11,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 85204800000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 200.66938354072792,
+      "MATZOV_q": 189.30718530203674,
+      "ADPS16": 174.61603992650564,
+      "ADPS16_q": 159.00000172464746
+     },
+     "binding": {
+      "MATZOV": 215.66322732692396,
+      "MATZOV_q": 202.9483752422625,
+      "ADPS16": 190.676,
+      "ADPS16_q": 173.04500000000002
+     },
+     "ballot_bytes": 180316,
+     "min_size_pair": [
+      11,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 88314600000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 200.66938354072792,
+      "MATZOV_q": 189.30718530203674,
+      "ADPS16": 174.61603992650564,
+      "ADPS16_q": 159.00000172464746
+     },
+     "binding": {
+      "MATZOV": 215.10346997139123,
+      "MATZOV_q": 202.44474125735934,
+      "ADPS16": 190.09199999999998,
+      "ADPS16_q": 172.51500000000001
+     },
+     "ballot_bytes": 219509,
+     "min_size_pair": [
+      11,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 105557000000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 200.66938354072792,
+      "MATZOV_q": 189.30718530203674,
+      "ADPS16": 174.61603992650564,
+      "ADPS16_q": 159.00000172464746
+     },
+     "binding": {
+      "MATZOV": 212.3060755516838,
+      "MATZOV_q": 199.92793672100984,
+      "ADPS16": 187.172,
+      "ADPS16_q": 169.865
+     },
+     "ballot_bytes": 180316,
+     "min_size_pair": [
+      11,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 109410000000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 200.66938354072792,
+      "MATZOV_q": 189.30718530203674,
+      "ADPS16": 174.61603992650564,
+      "ADPS16_q": 159.00000172464746
+     },
+     "binding": {
+      "MATZOV": 211.74641864030866,
+      "MATZOV_q": 199.42439234485914,
+      "ADPS16": 186.588,
+      "ADPS16_q": 169.335
+     },
+     "ballot_bytes": 219509,
+     "min_size_pair": [
+      11,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    }
+   ],
+   "thresholds": [
+    {
+     "L": 1,
+     "d": 9,
+     "b_hi": 39,
+     "q": 549755812561,
+     "N_V_star": 180,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 204.71471185815432
+     }
+    },
+    {
+     "L": 1,
+     "d": 10,
+     "b_hi": 44,
+     "q": 17592186044273,
+     "N_V_star": 285955,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 200.98740433796817
+     }
+    },
+    {
+     "L": 1,
+     "d": 11,
+     "b_hi": 48,
+     "q": 281474976710129,
+     "N_V_star": 71974348,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 203.09285721273434
+     }
+    },
+    {
+     "L": 1,
+     "d": 12,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    },
+    {
+     "L": 2,
+     "d": 9,
+     "b_hi": 39,
+     "q": 549755812561,
+     "N_V_star": 150,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 205.27487964424768
+     }
+    },
+    {
+     "L": 2,
+     "d": 10,
+     "b_hi": 44,
+     "q": 17592186044273,
+     "N_V_star": 263275,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 200.98740433796817
+     }
+    },
+    {
+     "L": 2,
+     "d": 11,
+     "b_hi": 48,
+     "q": 281474976710129,
+     "N_V_star": 67052662,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 203.09285721273434
+     }
+    },
+    {
+     "L": 2,
+     "d": 12,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    }
+   ]
+  },
+  {
+   "lambda": 192,
+   "models": [
+    "MATZOV",
+    "MATZOV_q"
+   ],
+   "b_hi": {
+    "6": null,
+    "7": null,
+    "8": null,
+    "9": 37,
+    "10": 41,
+    "11": 46,
+    "12": 50
+   },
+   "selection": [
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 4600710000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 219.8784464866084,
+      "MATZOV_q": 207.12277858340954,
+      "ADPS16": 195.05628149574997,
+      "ADPS16_q": 177.58604674314722
+     },
+     "binding": {
+      "MATZOV": 242.74531440694636,
+      "MATZOV_q": 227.3064563639183,
+      "ADPS16": 219.0,
+      "ADPS16_q": 198.75
+     },
+     "ballot_bytes": 172636,
+     "min_size_pair": [
+      11,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 43,
+     "q": 8796093022033,
+     "beta_SIS": 4764950000000.0,
+     "b_lo": 43,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 219.8784464866084,
+      "MATZOV_q": 207.12277858340954,
+      "ADPS16": 195.05628149574997,
+      "ADPS16_q": 177.58604674314722
+     },
+     "binding": {
+      "MATZOV": 242.1847489441674,
+      "MATZOV_q": 226.80209378580372,
+      "ADPS16": 218.416,
+      "ADPS16_q": 198.22
+     },
+     "ballot_bytes": 211189,
+     "min_size_pair": [
+      11,
+      43
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 44,
+     "q": 17592186044273,
+     "beta_SIS": 11816100000000.0,
+     "b_lo": 44,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 214.87750685794694,
+      "MATZOV_q": 202.56924658017755,
+      "ADPS16": 189.50957283696576,
+      "ADPS16_q": 172.5390748449527
+     },
+     "binding": {
+      "MATZOV": 231.56257113444968,
+      "MATZOV_q": 217.24747817202262,
+      "ADPS16": 207.32,
+      "ADPS16_q": 188.15
+     },
+     "ballot_bytes": 174556,
+     "min_size_pair": [
+      11,
+      44
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 100000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 44,
+     "q": 17592186044273,
+     "beta_SIS": 12243500000000.0,
+     "b_lo": 44,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 214.87750685794694,
+      "MATZOV_q": 202.56924658017755,
+      "ADPS16": 189.50957283696576,
+      "ADPS16_q": 172.5390748449527
+     },
+     "binding": {
+      "MATZOV": 231.00231257773765,
+      "MATZOV_q": 216.74339133075327,
+      "ADPS16": 206.736,
+      "ADPS16_q": 187.62
+     },
+     "ballot_bytes": 213269,
+     "min_size_pair": [
+      11,
+      44
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 1,
+     "d": 11,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 34255600000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 209.42287621978366,
+      "MATZOV_q": 197.81631582058031,
+      "ADPS16": 184.31091639203223,
+      "ADPS16_q": 167.6852408409866
+     },
+     "binding": {
+      "MATZOV": 219.26493535826737,
+      "MATZOV_q": 206.18523821282588,
+      "ADPS16": 194.47199999999998,
+      "ADPS16_q": 176.49
+     },
+     "ballot_bytes": 176476,
+     "min_size_pair": [
+      11,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 4,
+     "L": 2,
+     "d": 11,
+     "b": 46,
+     "q": 70368744176561,
+     "beta_SIS": 35503600000000.0,
+     "b_lo": 46,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 204.8760163272909,
+      "MATZOV_q": 193.55386007504163,
+      "ADPS16": 179.58000127924674,
+      "ADPS16_q": 163.09719018985962
+     },
+     "binding": {
+      "MATZOV": 224.32075542083072,
+      "MATZOV_q": 210.73576717216048,
+      "ADPS16": 199.72799999999998,
+      "ADPS16_q": 181.26000000000002
+     },
+     "ballot_bytes": 217429,
+     "min_size_pair": [
+      11,
+      46
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 1000000,
+     "n": 9,
+     "L": 1,
+     "d": 11,
+     "b": 45,
+     "q": 35184372088241,
+     "beta_SIS": 34255700000000.0,
+     "b_lo": 45,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 209.42287621978366,
+      "MATZOV_q": 197.81631582058031,
+      "ADPS16": 184.31091639203223,
+      "ADPS16_q": 167.6852408409866
+     },
+     "binding": {
+      "MATZOV": 219.26493535826737,
+      "MATZOV_q": 206.18523821282588,
+      "ADPS16": 194.47199999999998,
+      "ADPS16_q": 176.49
+     },
+     "ballot_bytes": 328597,
+     "min_size_pair": [
+      11,
+      45
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 1,
+     "d": 12,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 91414000000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 220.70468555415147,
+      "MATZOV_q": 207.63312234948668,
+      "ADPS16": 195.34823001896007,
+      "ADPS16_q": 177.86945926261606
+     },
+     "binding": {
+      "MATZOV": 237.56842014068076,
+      "MATZOV_q": 222.6634280519358,
+      "ADPS16": 213.452,
+      "ADPS16_q": 193.715
+     },
+     "ballot_bytes": 195753,
+     "min_size_pair": [
+      12,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 6480000,
+     "n": 4,
+     "L": 2,
+     "d": 12,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 94503700000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 220.70468555415147,
+      "MATZOV_q": 207.63312234948668,
+      "ADPS16": 195.34823001896007,
+      "ADPS16_q": 177.86945926261606
+     },
+     "binding": {
+      "MATZOV": 237.00839018962586,
+      "MATZOV_q": 222.15958644200725,
+      "ADPS16": 212.868,
+      "ADPS16_q": 193.185
+     },
+     "ballot_bytes": 237295,
+     "min_size_pair": [
+      12,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 1,
+     "d": 12,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 113251000000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 220.70468555415147,
+      "MATZOV_q": 207.63312234948668,
+      "ADPS16": 195.34823001896007,
+      "ADPS16_q": 177.86945926261606
+     },
+     "binding": {
+      "MATZOV": 233.92796251408978,
+      "MATZOV_q": 219.38816665234103,
+      "ADPS16": 209.65599999999998,
+      "ADPS16_q": 190.27
+     },
+     "ballot_bytes": 195753,
+     "min_size_pair": [
+      12,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    },
+    {
+     "NV": 10000000,
+     "n": 4,
+     "L": 2,
+     "d": 12,
+     "b": 47,
+     "q": 140737488354161,
+     "beta_SIS": 117079000000000.0,
+     "b_lo": 47,
+     "binding_limits": false,
+     "hiding": {
+      "MATZOV": 220.70468555415147,
+      "MATZOV_q": 207.63312234948668,
+      "ADPS16": 195.34823001896007,
+      "ADPS16_q": 177.86945926261606
+     },
+     "binding": {
+      "MATZOV": 233.36776475998732,
+      "MATZOV_q": 218.8841470176859,
+      "ADPS16": 209.07199999999997,
+      "ADPS16_q": 189.74
+     },
+     "ballot_bytes": 237295,
+     "min_size_pair": [
+      12,
+      47
+     ],
+     "lexicographic_is_min_size": true
+    }
+   ],
+   "thresholds": [
+    {
+     "L": 1,
+     "d": 9,
+     "b_hi": 37,
+     "q": 137438953009,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 1,
+     "d": 10,
+     "b_hi": 41,
+     "q": 2199023255441,
+     "N_V_star": 2630,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 217.99120924945888,
+      "MATZOV_q": 205.02378003533266
+     }
+    },
+    {
+     "L": 1,
+     "d": 11,
+     "b_hi": 46,
+     "q": 70368744176561,
+     "N_V_star": 4386215,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 213.40704261753078,
+      "MATZOV_q": 200.91667325447642
+     }
+    },
+    {
+     "L": 1,
+     "d": 12,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    },
+    {
+     "L": 2,
+     "d": 9,
+     "b_hi": 37,
+     "q": 137438953009,
+     "N_V_star": 0,
+     "beyond_range": false
+    },
+    {
+     "L": 2,
+     "d": 10,
+     "b_hi": 41,
+     "q": 2199023255441,
+     "N_V_star": 2430,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 217.99120924945888,
+      "MATZOV_q": 205.02378003533266
+     }
+    },
+    {
+     "L": 2,
+     "d": 11,
+     "b_hi": 46,
+     "q": 70368744176561,
+     "N_V_star": 4079395,
+     "beyond_range": false,
+     "binding_at_threshold": {
+      "MATZOV": 213.40704261753078,
+      "MATZOV_q": 200.91667325447642
+     }
+    },
+    {
+     "L": 2,
+     "d": 12,
+     "b_hi": 50,
+     "q": 1125899906842033,
+     "N_V_star": 100000000,
+     "beyond_range": true
+    }
+   ]
+  }
+ ]
+}

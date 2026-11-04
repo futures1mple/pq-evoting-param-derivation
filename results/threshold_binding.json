@@ -1,0 +1,187 @@
+[
+ {
+  "target": "128 classical",
+  "d": 6,
+  "N_V": 180,
+  "q": 400816000433,
+  "beta_SIS": 400816000000.0,
+  "lam_b": 128,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -171.97634319978235,
+  "log2_sigma_max": 20.616979520444975,
+  "binding": 130.7091330861178
+ },
+ {
+  "target": "128 classical",
+  "d": 7,
+  "N_V": 3021514,
+  "q": 41833900000049,
+  "beta_SIS": 41833900000000.0,
+  "lam_b": 128,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -170.68070682546923,
+  "log2_sigma_max": 27.57956655635668,
+  "binding": 130.12742160267015
+ },
+ {
+  "target": "128 classical+quantum",
+  "d": 7,
+  "N_V": 354255,
+  "q": 14737900000433,
+  "beta_SIS": 14737900000000.0,
+  "lam_b": 128,
+  "models": [
+   "MATZOV",
+   "MATZOV_q"
+  ],
+  "feasible": true,
+  "log2_budget": -171.22621025859667,
+  "log2_sigma_max": 26.03067858505041,
+  "binding": 130.42764387386111
+ },
+ {
+  "target": "128 core-SVP",
+  "d": 8,
+  "N_V": 93635,
+  "q": 8956810000241,
+  "beta_SIS": 8956810000000.0,
+  "lam_b": 128,
+  "models": [
+   "ADPS16"
+  ],
+  "feasible": true,
+  "log2_budget": -171.73623893963148,
+  "log2_sigma_max": 25.081726087349946,
+  "binding": 132.56799999999998
+ },
+ {
+  "target": "128 core-SVP classical+quantum",
+  "d": 8,
+  "N_V": 900,
+  "q": 1088500000529,
+  "beta_SIS": 1088500000000.0,
+  "lam_b": 128,
+  "models": [
+   "ADPS16",
+   "ADPS16_q"
+  ],
+  "feasible": true,
+  "log2_budget": -171.9750438310753,
+  "log2_sigma_max": 21.864865482971968,
+  "binding": 133.29500000000002
+ },
+ {
+  "target": "128 core-SVP classical+quantum",
+  "d": 9,
+  "N_V": 1852773,
+  "q": 39355900000817,
+  "beta_SIS": 39355900000000.0,
+  "lam_b": 128,
+  "models": [
+   "ADPS16",
+   "ADPS16_q"
+  ],
+  "feasible": true,
+  "log2_budget": -170.49923946917934,
+  "log2_sigma_max": 27.24855600027269,
+  "binding": 132.76500000000001
+ },
+ {
+  "target": "192 classical",
+  "d": 9,
+  "N_V": 420,
+  "q": 824767000081,
+  "beta_SIS": 824767000000.0,
+  "lam_b": 192,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -171.97634282171717,
+  "log2_sigma_max": 21.384327398304368,
+  "binding": 200.81392329072796
+ },
+ {
+  "target": "192 classical",
+  "d": 10,
+  "N_V": 400666,
+  "q": 20569800000433,
+  "beta_SIS": 20569800000000.0,
+  "lam_b": 192,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -171.15160991867893,
+  "log2_sigma_max": 26.152710972324815,
+  "binding": 199.87300553585814
+ },
+ {
+  "target": "192 classical+quantum",
+  "d": 10,
+  "N_V": 9400,
+  "q": 4140290000017,
+  "beta_SIS": 4140290000000.0,
+  "lam_b": 192,
+  "models": [
+   "MATZOV",
+   "MATZOV_q"
+  ],
+  "feasible": true,
+  "log2_budget": -171.95057841540458,
+  "log2_sigma_max": 23.639877220629312,
+  "binding": 200.25888810196017
+ },
+ {
+  "target": "192 classical+quantum",
+  "d": 11,
+  "N_V": 6846195,
+  "q": 87543000000433,
+  "beta_SIS": 87543000000000.0,
+  "lam_b": 192,
+  "models": [
+   "MATZOV",
+   "MATZOV_q"
+  ],
+  "feasible": true,
+  "log2_budget": -170.56786665188727,
+  "log2_sigma_max": 28.213711798105674,
+  "binding": 199.41202096847022
+ },
+ {
+  "target": "hiding 192 / binding 128, classical",
+  "d": 9,
+  "N_V": 420,
+  "q": 824767000081,
+  "beta_SIS": 824767000000.0,
+  "lam_b": 128,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -171.97634282171717,
+  "log2_sigma_max": 21.384327398304368,
+  "binding": 200.81392329072796
+ },
+ {
+  "target": "hiding 192 / binding 128, classical",
+  "d": 10,
+  "N_V": 400666,
+  "q": 20569800000433,
+  "beta_SIS": 20569800000000.0,
+  "lam_b": 128,
+  "models": [
+   "MATZOV"
+  ],
+  "feasible": true,
+  "log2_budget": -171.15160991867893,
+  "log2_sigma_max": 26.152710972324815,
+  "binding": 199.87300553585814
+ }
+]

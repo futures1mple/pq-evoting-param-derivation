@@ -1,0 +1,9 @@
+2026-11-03 05:32 UTC | Step 0 | machine.txt written; 8 cores, 20 GB available mem, 259 GB free disk; load average 1.08 (another process running)
+2026-11-03 05:33 UTC | Step 0 | continued with J = 7; the other process was left running
+2026-11-03 05:34 UTC | Step 1 | fetch_deps.sh ok (1395c3f, d0885a3, 53da598, param_report built); check_baseline.py: 6 configurations reproduced, 0 differ
+2026-11-03 05:35 UTC | Step 2 | uv 0.13.7 installed; venv deps/venv with CPython 3.13.18; passagemath-standard 10.8.12 installed; sage ok
+2026-11-03 05:39 UTC | Step 3 | quick test ok: sis min=144.55, lwe min=128.86 (both match expected)
+2026-11-03 05:39 UTC | Step 4 | full run started in tmux session ja-run with J = 7
+2026-11-03 10:04 UTC | Step 4 | full run finished (run.log ends with 'finished 2026-11-03 11:03:40' local time)
+2026-11-03 10:04 UTC | Step 5 | checks ok: sis.jsonl 1856 lines, lwe.jsonl 420 lines, 0 null entries, no warnings; SUMMARY.txt written
+2026-11-03 10:04 UTC | Step 6 | packaged results/estimates and results/estimates_quick into ~/ja_estimates.tgz

@@ -1,0 +1,163 @@
+[
+ {
+  "d": 6,
+  "model": "MATZOV",
+  "lambda": 128,
+  "b_int": 38,
+  "x_interp": 38.667300385032895
+ },
+ {
+  "d": 6,
+  "model": "MATZOV_q",
+  "lambda": 128,
+  "b_int": 37,
+  "x_interp": 37.36345387603328
+ },
+ {
+  "d": 7,
+  "model": "ADPS16",
+  "lambda": 128,
+  "b_int": 37,
+  "x_interp": 37.57772574226821
+ },
+ {
+  "d": 7,
+  "model": "MATZOV",
+  "lambda": 128,
+  "b_int": 45,
+  "x_interp": 45.30031906203799
+ },
+ {
+  "d": 7,
+  "model": "MATZOV_q",
+  "lambda": 128,
+  "b_int": 43,
+  "x_interp": 43.79458699967768
+ },
+ {
+  "d": 8,
+  "model": "ADPS16",
+  "lambda": 128,
+  "b_int": 43,
+  "x_interp": 43.077458768567716
+ },
+ {
+  "d": 8,
+  "model": "ADPS16_q",
+  "lambda": 128,
+  "b_int": 40,
+  "x_interp": 40.125293868528665
+ },
+ {
+  "d": 8,
+  "model": "MATZOV",
+  "lambda": 192,
+  "b_int": 35,
+  "x_interp": 35.01667782289102
+ },
+ {
+  "d": 9,
+  "model": "ADPS16",
+  "lambda": 128,
+  "b_int": 48,
+  "x_interp": 48.59113812901525
+ },
+ {
+  "d": 9,
+  "model": "ADPS16",
+  "lambda": 192,
+  "b_int": 35,
+  "x_interp": 35.313991440953544
+ },
+ {
+  "d": 9,
+  "model": "ADPS16_q",
+  "lambda": 128,
+  "b_int": 45,
+  "x_interp": 45.26707022166045
+ },
+ {
+  "d": 9,
+  "model": "MATZOV",
+  "lambda": 192,
+  "b_int": 39,
+  "x_interp": 39.63627154187949
+ },
+ {
+  "d": 9,
+  "model": "MATZOV_q",
+  "lambda": 192,
+  "b_int": 37,
+  "x_interp": 37.54085727856923
+ },
+ {
+  "d": 10,
+  "model": "ADPS16",
+  "lambda": 192,
+  "b_int": 39,
+  "x_interp": 39.40510710568838
+ },
+ {
+  "d": 10,
+  "model": "ADPS16_q",
+  "lambda": 192,
+  "b_int": 36,
+  "x_interp": 36.501123004371145
+ },
+ {
+  "d": 10,
+  "model": "MATZOV",
+  "lambda": 192,
+  "b_int": 44,
+  "x_interp": 44.35216625684383
+ },
+ {
+  "d": 10,
+  "model": "MATZOV_q",
+  "lambda": 192,
+  "b_int": 41,
+  "x_interp": 41.96277383461786
+ },
+ {
+  "d": 11,
+  "model": "ADPS16",
+  "lambda": 192,
+  "b_int": 43,
+  "x_interp": 43.55100811738323
+ },
+ {
+  "d": 11,
+  "model": "ADPS16_q",
+  "lambda": 192,
+  "b_int": 40,
+  "x_interp": 40.340136805333024
+ },
+ {
+  "d": 11,
+  "model": "MATZOV",
+  "lambda": 192,
+  "b_int": 48,
+  "x_interp": 48.8893119773526
+ },
+ {
+  "d": 11,
+  "model": "MATZOV_q",
+  "lambda": 192,
+  "b_int": 46,
+  "x_interp": 46.36590041811517
+ },
+ {
+  "d": 12,
+  "model": "ADPS16",
+  "lambda": 192,
+  "b_int": 47,
+  "x_interp": 47.638065421015085
+ },
+ {
+  "d": 12,
+  "model": "ADPS16_q",
+  "lambda": 192,
+  "b_int": 44,
+  "x_interp": 44.174245096494126
+ }
+]

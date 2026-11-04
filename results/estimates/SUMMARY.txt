@@ -1,0 +1,30 @@
+Summary of the full estimate run (scripts/estimate_grid.py all --jobs 7)
+
+Start:  2026-11-03 06:39:14 server local time (05:39 UTC), from run_info.jsonl
+End:    2026-11-03 11:03:40 server local time (10:03 UTC), "finished" line of run.log
+        (about 4 h 25 min; the LWE part took 240 min)
+J:      7 (nproc = 8, free memory about 20 GB)
+Python 3.13.18, passagemath-standard 10.8.12, lattice-estimator 53da598
+
+Line counts:
+  sis.jsonl     1856 (expected 1856)
+  lwe.jsonl      420 (expected 420)
+  bounds.jsonl    77 (11 configurations x 7 values of d)
+  all 2276 estimate keys are distinct
+
+Entries with "min": null:
+  sis.jsonl  0
+  lwe.jsonl  0
+
+Slowest 5 entries (seconds):
+  ('lwe', 11, 1, 50, 'MATZOV')    290.6 s  min=187.64
+  ('lwe', 12, 1, 36, 'MATZOV')    289.1 s  min=291.29
+  ('lwe', 11, 1, 48, 'MATZOV_q')  286.4 s  min=185.43
+  ('lwe', 11, 1, 45, 'MATZOV')    285.2 s  min=209.42
+  ('lwe', 12, 1, 49, 'MATZOV')    284.5 s  min=210.94
+
+Warnings in run.log: none (no line matching warn/error/traceback; the only lines other than
+progress lines are the two part headers and the final "finished" line).
+
+Quick test (results/estimates_quick): sis ('sis', 10000, 4, 1, 7, 42, 'MATZOV') min=144.55,
+lwe ('lwe', 7, 1, 45, 'MATZOV') min=128.86, both as expected.
