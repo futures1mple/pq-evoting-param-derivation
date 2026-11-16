@@ -20,7 +20,9 @@ constraints of EVOLVE's Section 5, binding at 2 B_r). Everything else is generic
              `derive.py estimate`), falling back to the integer tables when q_lo is a table modulus;
   selection  the smallest d with q_lo(d) <= q_hi(d) and binding >= target; Lemma 7 of the paper
              shows that it also minimises the size;
-  thresholds for TEVOLVE, the largest N_V served by each rank (bisection with param_report).
+  thresholds for TEVOLVE, the largest N_V served by each rank (bisection with param_report on the
+             range 10^2 <= N_V <= 10^8, to a relative precision of 0.02 %; "none" means that the rank
+             is not admissible anywhere in that range).
 
 Targets: separate levels and model sets for hiding and binding.
 
@@ -245,7 +247,7 @@ def threshold(L, d, q_hi, lo=100, hi=10 ** 8):
         return 0
     if beta(hi) < q_hi:
         return hi
-    while hi - lo > 1 and hi / lo > 1.002:
+    while hi - lo > 1 and hi / lo > 1.0002:
         mid = min(hi - 1, max(lo + 1, int(round(math.sqrt(lo * hi)))))
         if beta(mid) < q_hi:
             lo = mid

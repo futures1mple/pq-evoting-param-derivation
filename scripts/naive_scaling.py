@@ -32,8 +32,8 @@ def beta(nv, d):
 
 
 def largest_nv(d, q, lo=10 ** 6, hi=10 ** 8):
-    """Largest N_V with beta_SIS(N_V, d) < q (bisection, 0.2 % resolution)."""
-    while hi / lo > 1.002:
+    """Largest N_V with beta_SIS(N_V, d) < q (bisection, 0.02 % resolution)."""
+    while hi / lo > 1.0002:
         mid = int(round(math.sqrt(lo * hi)))
         if beta(mid, d) < q:
             lo = mid

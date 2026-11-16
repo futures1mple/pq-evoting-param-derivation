@@ -28,7 +28,7 @@ Hiding ceilings log2 q_hi(d): 5: -, 6: 38.62, 7: 45.25, 8: 50.00, 9: 50.00, 10: 
 | EVOLVE (9,) | 6 | 36.21 | 37 | 36.21 | 136.9 | 140.1 | 8.09 |
 | EVOLVE (15,) | 6 | 36.95 | 37 | 36.95 | 134.1 | 137.1 | 8.09 |
 
-Thresholds (largest N_V per rank): L=1 d=6: 180; L=1 d=7: 3.02e+06; L=1 d=8: >=1e8; L=2 d=6: 166; L=2 d=7: 2.79e+06; L=2 d=8: >=1e8
+Thresholds (largest N_V per rank): L=1 d=6: 180; L=1 d=7: 3.02e+06; L=1 d=8: >=1e8; L=2 d=6: 166; L=2 d=7: 2.8e+06; L=2 d=8: >=1e8
 
 ## 128 classical+quantum
 
@@ -55,7 +55,7 @@ Hiding ceilings log2 q_hi(d): 5: -, 6: 37.31, 7: 43.74, 8: 50.00, 9: 50.00, 10: 
 | EVOLVE (9,) | 6 | 36.21 | 37 | 36.21 | 131.9 | 134.9 | 8.09 |
 | EVOLVE (15,) | 6 | 36.95 | 37 | 36.95 | 129.4 | 132.2 | 8.09 |
 
-Thresholds (largest N_V per rank): L=1 d=6: none; L=1 d=7: 3.54e+05; L=1 d=8: >=1e8; L=2 d=6: none; L=2 d=7: 3.16e+05; L=2 d=8: >=1e8
+Thresholds (largest N_V per rank): L=1 d=6: none; L=1 d=7: 3.54e+05; L=1 d=8: >=1e8; L=2 d=6: none; L=2 d=7: 3.17e+05; L=2 d=8: >=1e8
 
 ## 128 core-SVP
 
@@ -82,7 +82,7 @@ Hiding ceilings log2 q_hi(d): 5: -, 6: -, 7: 37.53, 8: 43.03, 9: 48.54, 10: 50.0
 | EVOLVE (9,) | 7 | 36.42 | 37 | 36.42 | 133.4 | 139.0 | 9.25 |
 | EVOLVE (15,) | 7 | 37.16 | 38 | 37.16 | 129.9 | 134.9 | 9.50 |
 
-Thresholds (largest N_V per rank): L=1 d=7: none; L=1 d=8: 9.36e+04; L=1 d=9: >=1e8; L=2 d=7: none; L=2 d=8: 8.42e+04; L=2 d=9: >=1e8
+Thresholds (largest N_V per rank): L=1 d=7: none; L=1 d=8: 9.38e+04; L=1 d=9: >=1e8; L=2 d=7: none; L=2 d=8: 8.43e+04; L=2 d=9: >=1e8
 
 ## 128 core-SVP classical+quantum
 
@@ -109,7 +109,7 @@ Hiding ceilings log2 q_hi(d): 5: -, 6: -, 7: -, 8: 40.00, 9: 45.16, 10: 50.00, 1
 | EVOLVE (9,) | 8 | 36.60 | 37 | 36.60 | 143.7 | 151.1 | 10.41 |
 | EVOLVE (15,) | 8 | 37.34 | 38 | 37.34 | 140.2 | 146.8 | 10.69 |
 
-Thresholds (largest N_V per rank): L=1 d=8: 900; L=1 d=9: 1.85e+06; L=1 d=10: >=1e8; L=2 d=8: 823; L=2 d=9: 1.7e+06; L=2 d=10: >=1e8
+Thresholds (largest N_V per rank): L=1 d=8: 900; L=1 d=9: 1.86e+06; L=1 d=10: >=1e8; L=2 d=8: 823; L=2 d=9: 1.7e+06; L=2 d=10: >=1e8
 
 ## 192 classical
 
@@ -163,7 +163,7 @@ Hiding ceilings log2 q_hi(d): 5: -, 6: -, 7: -, 8: -, 9: 37.59, 10: 41.91, 11: 4
 | EVOLVE (9,) | 9 | 36.76 | 37 | 36.76 | 196.1 | 205.9 | 11.56 |
 | EVOLVE (15,) | 9 | 37.50 | 38 | 37.50 | 192.4 | 201.3 | 11.88 |
 
-Thresholds (largest N_V per rank): L=1 d=9: none; L=1 d=10: 9.4e+03; L=1 d=11: 6.85e+06; L=1 d=12: >=1e8; L=2 d=9: none; L=2 d=10: 8.7e+03; L=2 d=11: 6.37e+06; L=2 d=12: >=1e8
+Thresholds (largest N_V per rank): L=1 d=9: none; L=1 d=10: 9.41e+03; L=1 d=11: 6.85e+06; L=1 d=12: >=1e8; L=2 d=9: none; L=2 d=10: 8.71e+03; L=2 d=11: 6.37e+06; L=2 d=12: >=1e8
 
 ## hiding 192 / binding 128, classical
 
